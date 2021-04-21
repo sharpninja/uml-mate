@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GPS.PlantUml\GPS.PlantUml.csproj" />
+    <ProjectReference Include="..\GPS.Requirements\GPS.Requirements.csproj" />
   </ItemGroup>
 
 </Project>

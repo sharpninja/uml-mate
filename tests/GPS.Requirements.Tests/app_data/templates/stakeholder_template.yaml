@@ -1,0 +1,30 @@
+id: "882176e8-a02d-4806-8e35-e4b21e490d47"
+name: "Requirement Name"
+tagline: "Requirement shor description."
+modifications:
+  - on: "April 16, 2021 11:42 am"
+    authors:
+    - name: "Payton Byrd"
+      email: "payton.byrd@sedgwick.com"
+    note: "Initial creation"
+tags:
+  - "Lorem"
+  - "Ipsum"
+  - "Lorem Ipsum"
+references:
+  - title: "Google Search"
+    url: "https://www.google.com"
+    description: "Ad-supported search engine"
+parent: null
+siblings:
+  - "008ba214-d09f-49b8-b3a3-c1dc64262ee0"
+  - "e27dfe8b-d60d-426d-b16d-6ea3f3b8c98c"
+  - "3e122b69-beed-44ca-8977-b878d487f78b"
+children:
+  - "f75091f8-7bd8-41ae-bd66-31900f92e540"
+  - "4ce7e7df-b255-4cae-a43a-794dc0009d8b"
+  - "ee25bc26-a030-472a-a0ee-d9401ec50519"
+description: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper malesuada proin libero nunc consequat interdum varius. Vitae justo eget magna fermentum iaculis eu. Euismod lacinia at quis risus sed vulputate. Tellus orci ac auctor augue mauris. Iaculis eu non diam phasellus vestibulum lorem. Nunc sed id semper risus in hendrerit. Lectus nulla at volutpat diam ut venenatis tellus in metus. Ut eu sem integer vitae justo eget magna. Odio tempor orci dapibus ultrices. Ac felis donec et odio pellentesque diam volutpat. Amet nisl purus in mollis nunc sed id semper risus. Massa sapien faucibus et molestie ac. Tortor vitae purus faucibus ornare suspendisse sed nisi. Suspendisse in est ante in. Amet purus gravida quis blandit.
+
+  Id interdum velit laoreet id donec ultrices. Viverra tellus in hac habitasse platea. Lectus arcu bibendum at varius vel. Enim blandit volutpat maecenas volutpat blandit aliquam etiam. Erat pellentesque adipiscing commodo elit. Ac ut consequat semper viverra nam libero. Faucibus interdum posuere lorem ipsum dolor sit. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue eget. Tempor id eu nisl nunc mi ipsum faucibus. Nunc non blandit massa enim nec dui.

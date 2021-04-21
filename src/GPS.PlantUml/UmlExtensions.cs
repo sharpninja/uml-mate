@@ -6,7 +6,7 @@ namespace GPS.PlantUml
 {
     public static class UmlExtensions
     {
-        public const string PLANT_UML_SERVER_URL = "https://www.plantuml.com/plantuml/svg/~1";
+        public const string PLANT_UML_SERVER_URL = "https://www.PlantUml.com/PlantUml/svg/~1";
 
         public static IConfiguration ConfigureUmlServices(IServiceProvider serviceProvider, IConfigurationRoot configuration)
         {
